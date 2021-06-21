@@ -1,1 +1,2 @@
 # HotDogDetect
+Basic CoreML Practice
